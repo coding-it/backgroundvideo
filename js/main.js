@@ -1,5 +1,5 @@
 $(function()
 {    
-    $("div#background-video").startBGvideo("vid/polina.webm", "vid/polina.mp4");
+    $("div#background-video").startBGvideo("vid/lily.webm", "vid/lily.mp4");
     prettyPrint();
 });
